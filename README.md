@@ -13,7 +13,7 @@
 
 ## About Me
 
-Final-year Automation & Robotics Engineering student at Amrita School of Engineering,
+Automation & Robotics Engineering student at Amrita School of Engineering,
 Coimbatore — graduating July 2026.
 
 I build robotic systems end-to-end: from training deep RL agents in simulation
@@ -96,22 +96,10 @@ YOLOv8 + OpenVINO inference inside ROS2 nodes on ARM hardware.
 
 ---
 
-## Experience
-
-| Role | Company | Period |
-|---|---|---|
-| Robotics R&D Intern | Garuda Aerospace Pvt. Ltd. | Jan – Mar 2026 |
-| Design & Prototyping Intern | Panther3D | Apr – Jun 2025 |
-
----
-
 ## Education
 
 **B.Tech — Automation & Robotics Engineering**
-Amrita School of Engineering, Coimbatore · 2022 – 2026 · CGPA: 7.71
-
-**Publication:** Automated Fire Detection and Suppression System in Rail
-Using LabVIEW and GSM — *IEEE ReACS*
+Amrita School of Engineering, Coimbatore · 2022 – 2026 
 
 ---
 
